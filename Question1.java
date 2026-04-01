@@ -23,7 +23,7 @@ class Dog extends Animal {
 public class Question1 {
 	public static void main(String[] args) {
 
-        Dog d1 = new Dog("Buddy", 3, "Golden Retriever");
+        Dog d1 = new Dog("Cooper", 2, "Japanese Spitz");
 
         System.out.println("Name: " + d1.name);
         System.out.println("Age: " + d1.age);
