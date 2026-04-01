@@ -27,7 +27,7 @@ public class MainApp {
             if (choice == 1) {
                 signup(sc);
             } else if (choice == 2) {
-                System.out.println("\nThank you for using the Application.");
+                System.out.println("\nThank you for using Application.");
             } else {
                 System.out.println("Invalid choice.");
             }
