@@ -2,7 +2,7 @@ package Workshop4;
 
 import java.util.*;
 
-public class MainApp {
+public class casestudy {
 
     
     static String[] names = new String[100];
