@@ -27,8 +27,8 @@ class Doggy extends Animalia {
 
 public class Question3 {
     public static void main(String[] args) {
-        Doggy d1 = new Doggy("Buddy", "Golden Retriever");
-        Doggy d2 = new Doggy("Max", "Bulldog");
+        Doggy d1 = new Doggy("Cooper", "Japanese Spitz");
+        Doggy d2 = new Doggy("Darling", "Retriever");
 
         System.out.println("Name: " + d1.getName() + ", Breed: " + d1.getBreed());
         System.out.println("Name: " + d2.getName() + ", Breed: " + d2.getBreed());
